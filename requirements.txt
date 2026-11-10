@@ -1,0 +1,15 @@
+torch
+transformers
+accelerate
+pandas
+numpy
+openpyxl
+evaluate==0.4.2
+nltk
+rouge-score
+bert-score
+torchmetrics
+sentencepiece
+huggingface_hub
+absl-py
+sacrebleu
